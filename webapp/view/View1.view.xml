@@ -4,5 +4,6 @@
     <Page id="page" title="{i18n>title}">
     <Text id="idText"/>
     <Button id="idPress" text="Press"/>
+    <Input id="idName" value=""/>
     </Page>
 </mvc:View>
